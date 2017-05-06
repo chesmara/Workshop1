@@ -18,6 +18,8 @@ public class UserDao {
                     i % 2 == 0 ? "Roki" : "Marcano",
                     i % 2 == 0 ? "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBK3FmyjIENz16NWEl1iJcIWj8I5n8hs-rl5JPixzw-XppNfKx"
                             : "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg"));
+
+
         }
         return users;
     }
